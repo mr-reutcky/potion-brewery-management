@@ -1,7 +1,6 @@
 using potion_brewery_management.Models;
 
-namespace potion_brewery_management
-{
+namespace potion_brewery_management {
     public partial class IngredientManagementForm : Form {
         private BreweryDbContext _context;  
 
@@ -21,16 +20,6 @@ namespace potion_brewery_management
             List<Ingredient> ingredients = _context.Ingredients.ToList();
             dgvIngredients.DataSource = null;
             dgvIngredients.DataSource = ingredients;
-
-            foreach (DataGridViewRow row in dgvIngredients.Rows) {
-                Ingredient ingredient = row.DataBoundItem as Ingredient;
-                if (ingredient != null && ingredient.QuantityInStock < ingredient.MinimumStockThreshold) {
-                    row.DefaultCellStyle.BackColor = Color.LightCoral;
-                }
-                else {
-                    row.DefaultCellStyle.BackColor = Color.White;
-                }
-            }
         }
 
         private void btnAdd_Click(object sender, EventArgs e) {

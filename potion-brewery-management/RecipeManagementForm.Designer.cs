@@ -50,89 +50,100 @@ namespace potion_brewery_management {
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(16, 30);
+            label1.Location = new Point(23, 50);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(77, 15);
+            label1.Size = new Size(115, 25);
             label1.TabIndex = 0;
             label1.Text = "Recipe Name";
             // 
             // txtRecipeName
             // 
-            txtRecipeName.Location = new Point(157, 27);
+            txtRecipeName.Location = new Point(224, 45);
+            txtRecipeName.Margin = new Padding(4, 5, 4, 5);
             txtRecipeName.Name = "txtRecipeName";
-            txtRecipeName.Size = new Size(100, 23);
+            txtRecipeName.Size = new Size(141, 31);
             txtRecipeName.TabIndex = 1;
             // 
             // Description
             // 
             Description.AutoSize = true;
-            Description.Location = new Point(16, 59);
+            Description.Location = new Point(23, 98);
+            Description.Margin = new Padding(4, 0, 4, 0);
             Description.Name = "Description";
-            Description.Size = new Size(67, 15);
+            Description.Size = new Size(102, 25);
             Description.TabIndex = 2;
             Description.Text = "Description";
             // 
             // txtRecipeDescription
             // 
-            txtRecipeDescription.Location = new Point(157, 56);
+            txtRecipeDescription.Location = new Point(224, 93);
+            txtRecipeDescription.Margin = new Padding(4, 5, 4, 5);
             txtRecipeDescription.Name = "txtRecipeDescription";
-            txtRecipeDescription.Size = new Size(100, 23);
+            txtRecipeDescription.Size = new Size(141, 31);
             txtRecipeDescription.TabIndex = 3;
             // 
             // numBrewingTime
             // 
-            numBrewingTime.Location = new Point(137, 85);
+            numBrewingTime.Location = new Point(196, 142);
+            numBrewingTime.Margin = new Padding(4, 5, 4, 5);
             numBrewingTime.Name = "numBrewingTime";
-            numBrewingTime.Size = new Size(120, 23);
+            numBrewingTime.Size = new Size(171, 31);
             numBrewingTime.TabIndex = 4;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(16, 87);
+            label2.Location = new Point(23, 145);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(96, 15);
+            label2.Size = new Size(141, 25);
             label2.TabIndex = 5;
             label2.Text = "Brewing Time (s)";
             // 
             // cmbIngredient
             // 
             cmbIngredient.FormattingEnabled = true;
-            cmbIngredient.Location = new Point(137, 114);
+            cmbIngredient.Location = new Point(196, 190);
+            cmbIngredient.Margin = new Padding(4, 5, 4, 5);
             cmbIngredient.Name = "cmbIngredient";
-            cmbIngredient.Size = new Size(121, 23);
+            cmbIngredient.Size = new Size(171, 33);
             cmbIngredient.TabIndex = 6;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(16, 117);
+            label3.Location = new Point(23, 195);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(61, 15);
+            label3.Size = new Size(93, 25);
             label3.TabIndex = 7;
             label3.Text = "Ingredient";
             // 
             // numIngredientQty
             // 
-            numIngredientQty.Location = new Point(137, 143);
+            numIngredientQty.Location = new Point(196, 238);
+            numIngredientQty.Margin = new Padding(4, 5, 4, 5);
             numIngredientQty.Name = "numIngredientQty";
-            numIngredientQty.Size = new Size(120, 23);
+            numIngredientQty.Size = new Size(171, 31);
             numIngredientQty.TabIndex = 8;
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(16, 145);
+            label4.Location = new Point(23, 242);
+            label4.Margin = new Padding(4, 0, 4, 0);
             label4.Name = "label4";
-            label4.Size = new Size(53, 15);
+            label4.Size = new Size(80, 25);
             label4.TabIndex = 9;
             label4.Text = "Quantity";
             // 
             // btnAddIngredient
             // 
-            btnAddIngredient.Location = new Point(182, 181);
+            btnAddIngredient.Location = new Point(260, 302);
+            btnAddIngredient.Margin = new Padding(4, 5, 4, 5);
             btnAddIngredient.Name = "btnAddIngredient";
-            btnAddIngredient.Size = new Size(75, 23);
+            btnAddIngredient.Size = new Size(107, 38);
             btnAddIngredient.TabIndex = 10;
             btnAddIngredient.Text = "ADD";
             btnAddIngredient.UseVisualStyleBackColor = true;
@@ -140,26 +151,30 @@ namespace potion_brewery_management {
             // dgvIngredients
             // 
             dgvIngredients.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvIngredients.Location = new Point(16, 235);
+            dgvIngredients.Location = new Point(389, 41);
+            dgvIngredients.Margin = new Padding(4, 5, 4, 5);
             dgvIngredients.Name = "dgvIngredients";
-            dgvIngredients.Size = new Size(678, 150);
+            dgvIngredients.RowHeadersWidth = 62;
+            dgvIngredients.Size = new Size(726, 299);
             dgvIngredients.TabIndex = 11;
             // 
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(16, 217);
+            label5.Location = new Point(389, 11);
+            label5.Margin = new Padding(4, 0, 4, 0);
             label5.Name = "label5";
-            label5.Size = new Size(69, 15);
+            label5.Size = new Size(105, 25);
             label5.TabIndex = 12;
             label5.Text = "Ingredients:";
             // 
             // btnSaveRecipe
             // 
             btnSaveRecipe.BackColor = Color.FromArgb(192, 255, 192);
-            btnSaveRecipe.Location = new Point(12, 402);
+            btnSaveRecipe.Location = new Point(23, 372);
+            btnSaveRecipe.Margin = new Padding(4, 5, 4, 5);
             btnSaveRecipe.Name = "btnSaveRecipe";
-            btnSaveRecipe.Size = new Size(122, 23);
+            btnSaveRecipe.Size = new Size(174, 38);
             btnSaveRecipe.TabIndex = 13;
             btnSaveRecipe.Text = "SAVE RECIPE";
             btnSaveRecipe.UseVisualStyleBackColor = false;
@@ -167,26 +182,29 @@ namespace potion_brewery_management {
             // lstRecipes
             // 
             lstRecipes.FormattingEnabled = true;
-            lstRecipes.ItemHeight = 15;
-            lstRecipes.Location = new Point(16, 491);
+            lstRecipes.ItemHeight = 25;
+            lstRecipes.Location = new Point(23, 474);
+            lstRecipes.Margin = new Padding(4, 5, 4, 5);
             lstRecipes.Name = "lstRecipes";
-            lstRecipes.Size = new Size(678, 139);
+            lstRecipes.Size = new Size(967, 229);
             lstRecipes.TabIndex = 14;
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(16, 462);
+            label6.Location = new Point(23, 444);
+            label6.Margin = new Padding(4, 0, 4, 0);
             label6.Name = "label6";
-            label6.Size = new Size(84, 15);
+            label6.Size = new Size(128, 25);
             label6.TabIndex = 15;
             label6.Text = "Saved Recipes:";
             // 
             // btnDeleteRecipe
             // 
-            btnDeleteRecipe.Location = new Point(18, 645);
+            btnDeleteRecipe.Location = new Point(23, 713);
+            btnDeleteRecipe.Margin = new Padding(4, 5, 4, 5);
             btnDeleteRecipe.Name = "btnDeleteRecipe";
-            btnDeleteRecipe.Size = new Size(75, 23);
+            btnDeleteRecipe.Size = new Size(107, 38);
             btnDeleteRecipe.TabIndex = 16;
             btnDeleteRecipe.Text = "DELETE";
             btnDeleteRecipe.UseVisualStyleBackColor = true;
@@ -195,18 +213,19 @@ namespace potion_brewery_management {
             // 
             btnClearForm.BackColor = Color.FromArgb(255, 128, 128);
             btnClearForm.ForeColor = SystemColors.ActiveCaptionText;
-            btnClearForm.Location = new Point(140, 402);
+            btnClearForm.Location = new Point(205, 372);
+            btnClearForm.Margin = new Padding(4, 5, 4, 5);
             btnClearForm.Name = "btnClearForm";
-            btnClearForm.Size = new Size(120, 23);
+            btnClearForm.Size = new Size(171, 38);
             btnClearForm.TabIndex = 17;
             btnClearForm.Text = "CLEAR FORM";
             btnClearForm.UseVisualStyleBackColor = false;
             // 
             // RecipeManagementForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 680);
+            ClientSize = new Size(1143, 771);
             Controls.Add(btnClearForm);
             Controls.Add(btnDeleteRecipe);
             Controls.Add(label6);
@@ -225,6 +244,7 @@ namespace potion_brewery_management {
             Controls.Add(Description);
             Controls.Add(txtRecipeName);
             Controls.Add(label1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "RecipeManagementForm";
             Text = "Recipe Manager";
             Load += RecipeManagementForm_Load;

@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\",
+  "WorkspaceRootPath": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\welcomeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\brewpotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\brewpotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\recipemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\recipemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\brewpotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\brewpotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\brewpotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\brewpotionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|c:\\code\\mitt\\back-end\\desktop apps\\assignments\\potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\recipemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\recipemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|c:\\code\\mitt\\back-end\\desktop apps\\assignments\\potion-brewery-management\\models\\brewerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\models\\brewerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +34,91 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecipeManagementForm.cs",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\RecipeManagementForm.cs",
-              "RelativeDocumentMoniker": "potion-brewery-management\\RecipeManagementForm.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\RecipeManagementForm.cs",
-              "RelativeToolTip": "potion-brewery-management\\RecipeManagementForm.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:18:30.353Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Program.cs",
-              "RelativeDocumentMoniker": "potion-brewery-management\\Program.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Program.cs",
-              "RelativeToolTip": "potion-brewery-management\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:13:55.694Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WelcomeForm.Designer.cs",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\WelcomeForm.Designer.cs",
-              "RelativeDocumentMoniker": "potion-brewery-management\\WelcomeForm.Designer.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\WelcomeForm.Designer.cs",
-              "RelativeToolTip": "potion-brewery-management\\WelcomeForm.Designer.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:13:45.949Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WelcomeForm.cs",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "potion-brewery-management\\WelcomeForm.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\WelcomeForm.cs",
-              "RelativeToolTip": "potion-brewery-management\\WelcomeForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Title": "IngredientManagementForm.cs",
+              "DocumentMoniker": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\IngredientManagementForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\IngredientManagementForm.cs",
+              "ToolTip": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\IngredientManagementForm.cs",
+              "RelativeToolTip": "potion-brewery-management\\IngredientManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:13:26.375Z",
+              "WhenOpened": "2025-05-20T13:44:34.082Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WelcomeForm.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\WelcomeForm.cs",
-              "RelativeDocumentMoniker": "potion-brewery-management\\WelcomeForm.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\WelcomeForm.cs [Design]",
-              "RelativeToolTip": "potion-brewery-management\\WelcomeForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:13:16.02Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BrewPotionForm.cs",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\BrewPotionForm.cs",
-              "RelativeDocumentMoniker": "potion-brewery-management\\BrewPotionForm.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\BrewPotionForm.cs",
-              "RelativeToolTip": "potion-brewery-management\\BrewPotionForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\WelcomeForm.cs",
+              "ToolTip": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "potion-brewery-management\\WelcomeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:09:48.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T13:41:49.968Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "IngredientManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\IngredientManagementForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\IngredientManagementForm.cs",
+              "ToolTip": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\IngredientManagementForm.cs [Design]",
+              "RelativeToolTip": "potion-brewery-management\\IngredientManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:41:31.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "BrewPotionForm.cs [Design]",
-              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\BrewPotionForm.cs",
+              "DocumentMoniker": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\BrewPotionForm.cs",
               "RelativeDocumentMoniker": "potion-brewery-management\\BrewPotionForm.cs",
-              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\BrewPotionForm.cs [Design]",
+              "ToolTip": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\BrewPotionForm.cs [Design]",
               "RelativeToolTip": "potion-brewery-management\\BrewPotionForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:04:15.723Z"
+              "WhenOpened": "2025-05-20T13:41:29.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\RecipeManagementForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\RecipeManagementForm.cs",
+              "ToolTip": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\RecipeManagementForm.cs [Design]",
+              "RelativeToolTip": "potion-brewery-management\\RecipeManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:39:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreweryDbContext.cs",
+              "DocumentMoniker": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "ToolTip": "C:\\code\\mitt\\back-end\\Desktop Apps\\Assignments\\potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "RelativeToolTip": "potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:37:58.489Z"
             }
           ]
         }

@@ -45,55 +45,63 @@
             // dgvIngredients
             // 
             dgvIngredients.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvIngredients.Location = new Point(255, 25);
+            dgvIngredients.Location = new Point(364, 42);
+            dgvIngredients.Margin = new Padding(4, 5, 4, 5);
             dgvIngredients.Name = "dgvIngredients";
-            dgvIngredients.Size = new Size(798, 150);
+            dgvIngredients.RowHeadersWidth = 62;
+            dgvIngredients.Size = new Size(1140, 250);
             dgvIngredients.TabIndex = 0;
             // 
             // txtName
             // 
-            txtName.Location = new Point(149, 48);
+            txtName.Location = new Point(213, 80);
+            txtName.Margin = new Padding(4, 5, 4, 5);
             txtName.Name = "txtName";
-            txtName.Size = new Size(100, 23);
+            txtName.Size = new Size(141, 31);
             txtName.TabIndex = 1;
             // 
             // numQuantity
             // 
-            numQuantity.Location = new Point(129, 77);
+            numQuantity.Location = new Point(184, 128);
+            numQuantity.Margin = new Padding(4, 5, 4, 5);
             numQuantity.Name = "numQuantity";
-            numQuantity.Size = new Size(120, 23);
+            numQuantity.Size = new Size(171, 31);
             numQuantity.TabIndex = 2;
             // 
             // numMinStock
             // 
-            numMinStock.Location = new Point(129, 106);
+            numMinStock.Location = new Point(184, 177);
+            numMinStock.Margin = new Padding(4, 5, 4, 5);
             numMinStock.Name = "numMinStock";
-            numMinStock.Size = new Size(120, 23);
+            numMinStock.Size = new Size(171, 31);
             numMinStock.TabIndex = 3;
             // 
             // btnAdd
             // 
-            btnAdd.Location = new Point(12, 139);
+            btnAdd.Location = new Point(17, 232);
+            btnAdd.Margin = new Padding(4, 5, 4, 5);
             btnAdd.Name = "btnAdd";
-            btnAdd.Size = new Size(75, 23);
+            btnAdd.Size = new Size(107, 38);
             btnAdd.TabIndex = 4;
             btnAdd.Text = "ADD";
             btnAdd.UseVisualStyleBackColor = true;
             // 
             // btnUpdate
             // 
-            btnUpdate.Location = new Point(93, 139);
+            btnUpdate.Location = new Point(133, 232);
+            btnUpdate.Margin = new Padding(4, 5, 4, 5);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(75, 23);
+            btnUpdate.Size = new Size(107, 38);
             btnUpdate.TabIndex = 5;
             btnUpdate.Text = "UPDATE";
             btnUpdate.UseVisualStyleBackColor = true;
             // 
             // btnDelete
             // 
-            btnDelete.Location = new Point(174, 139);
+            btnDelete.Location = new Point(249, 232);
+            btnDelete.Margin = new Padding(4, 5, 4, 5);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(75, 23);
+            btnDelete.Size = new Size(107, 38);
             btnDelete.TabIndex = 6;
             btnDelete.Text = "DELETE";
             btnDelete.UseVisualStyleBackColor = true;
@@ -101,36 +109,39 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 51);
+            label1.Location = new Point(17, 85);
+            label1.Margin = new Padding(4, 0, 4, 0);
             label1.Name = "label1";
-            label1.Size = new Size(39, 15);
+            label1.Size = new Size(59, 25);
             label1.TabIndex = 7;
             label1.Text = "Name";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(12, 79);
+            label2.Location = new Point(17, 132);
+            label2.Margin = new Padding(4, 0, 4, 0);
             label2.Name = "label2";
-            label2.Size = new Size(53, 15);
+            label2.Size = new Size(80, 25);
             label2.TabIndex = 8;
             label2.Text = "Quantity";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(12, 108);
+            label3.Location = new Point(17, 180);
+            label3.Margin = new Padding(4, 0, 4, 0);
             label3.Name = "label3";
-            label3.Size = new Size(92, 15);
+            label3.Size = new Size(136, 25);
             label3.TabIndex = 9;
             label3.Text = "Minimum Stock";
             label3.Click += label3_Click;
             // 
             // IngredientManagementForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1206, 450);
+            ClientSize = new Size(1723, 353);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -141,6 +152,7 @@
             Controls.Add(numQuantity);
             Controls.Add(txtName);
             Controls.Add(dgvIngredients);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "IngredientManagementForm";
             Text = "Ingredient Manager";
             ((System.ComponentModel.ISupportInitialize)dgvIngredients).EndInit();
