@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\recipemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\recipemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\recipemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\recipemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\models\\brewerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\models\\brewerydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\models\\recipeingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\models\\recipeingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\models\\brewedpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\models\\brewedpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\ingredientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|d:\\code\\mitt\\backend\\desktop apps\\assignments\\potion-brewery-management\\potion-brewery-management\\ingredientmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F6084E6-6A48-4351-9124-8263C391E4CB}|potion-brewery-management\\potion-brewery-management.csproj|solutionrelative:potion-brewery-management\\ingredientmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\RecipeManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\RecipeManagementForm.Designer.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\RecipeManagementForm.Designer.cs",
+              "RelativeToolTip": "potion-brewery-management\\RecipeManagementForm.Designer.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowCsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:27:47.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeManagementForm.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\RecipeManagementForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\RecipeManagementForm.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\RecipeManagementForm.cs",
+              "RelativeToolTip": "potion-brewery-management\\RecipeManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:24:41.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeIngredient.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\RecipeIngredient.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\Models\\RecipeIngredient.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\RecipeIngredient.cs",
+              "RelativeToolTip": "potion-brewery-management\\Models\\RecipeIngredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:28:19.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\Models\\Recipe.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\Recipe.cs",
+              "RelativeToolTip": "potion-brewery-management\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:27:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\Models\\Ingredient.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\Ingredient.cs",
+              "RelativeToolTip": "potion-brewery-management\\Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:27:35.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngredientManagementForm.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\IngredientManagementForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\IngredientManagementForm.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\IngredientManagementForm.cs",
+              "RelativeToolTip": "potion-brewery-management\\IngredientManagementForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:47:42.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreweryDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "RelativeToolTip": "potion-brewery-management\\Models\\BreweryDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:29:24.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngredientManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\IngredientManagementForm.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\IngredientManagementForm.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\IngredientManagementForm.cs [Design]",
+              "RelativeToolTip": "potion-brewery-management\\IngredientManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:24:20.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrewedPotion.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\BrewedPotion.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\Models\\BrewedPotion.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\Models\\BrewedPotion.cs",
+              "RelativeToolTip": "potion-brewery-management\\Models\\BrewedPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:28:38.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IngredientManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\IngredientManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "potion-brewery-management\\IngredientManagementForm.Designer.cs",
+              "ToolTip": "D:\\Code\\MITT\\Backend\\Desktop Apps\\Assignments\\potion-brewery-management\\potion-brewery-management\\IngredientManagementForm.Designer.cs",
+              "RelativeToolTip": "potion-brewery-management\\IngredientManagementForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T22:54:50.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
