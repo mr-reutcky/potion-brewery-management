@@ -67,7 +67,7 @@ namespace potion_brewery_management {
             // 
             Description.AutoSize = true;
             Description.Location = new Point(16, 59);
-            Description.Name = "lblDescription";
+            Description.Name = "Description";
             Description.Size = new Size(67, 15);
             Description.TabIndex = 2;
             Description.Text = "Description";
@@ -191,18 +191,18 @@ namespace potion_brewery_management {
             btnDeleteRecipe.Text = "DELETE";
             btnDeleteRecipe.UseVisualStyleBackColor = true;
             // 
-            // button1
+            // btnClearForm
             // 
             btnClearForm.BackColor = Color.FromArgb(255, 128, 128);
             btnClearForm.ForeColor = SystemColors.ActiveCaptionText;
             btnClearForm.Location = new Point(140, 402);
-            btnClearForm.Name = "button1";
+            btnClearForm.Name = "btnClearForm";
             btnClearForm.Size = new Size(120, 23);
             btnClearForm.TabIndex = 17;
             btnClearForm.Text = "CLEAR FORM";
             btnClearForm.UseVisualStyleBackColor = false;
             // 
-            // ReipeManagementForm
+            // RecipeManagementForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -226,7 +226,8 @@ namespace potion_brewery_management {
             Controls.Add(txtRecipeName);
             Controls.Add(label1);
             Name = "RecipeManagementForm";
-            Text = "RecipeManagementForm";
+            Text = "Recipe Manager";
+            Load += RecipeManagementForm_Load;
             ((System.ComponentModel.ISupportInitialize)numBrewingTime).EndInit();
             ((System.ComponentModel.ISupportInitialize)numIngredientQty).EndInit();
             ((System.ComponentModel.ISupportInitialize)dgvIngredients).EndInit();

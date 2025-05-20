@@ -142,7 +142,7 @@
             Controls.Add(txtName);
             Controls.Add(dgvIngredients);
             Name = "IngredientManagementForm";
-            Text = "Form1";
+            Text = "Ingredient Manager";
             ((System.ComponentModel.ISupportInitialize)dgvIngredients).EndInit();
             ((System.ComponentModel.ISupportInitialize)numQuantity).EndInit();
             ((System.ComponentModel.ISupportInitialize)numMinStock).EndInit();

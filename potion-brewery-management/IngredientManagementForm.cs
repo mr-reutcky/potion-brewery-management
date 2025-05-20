@@ -3,7 +3,7 @@ using potion_brewery_management.Models;
 namespace potion_brewery_management
 {
     public partial class IngredientManagementForm : Form {
-        private BreweryDbContext _context;
+        private BreweryDbContext _context;  
 
         public IngredientManagementForm() {
             InitializeComponent();

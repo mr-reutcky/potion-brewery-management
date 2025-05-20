@@ -1,7 +1,7 @@
 ﻿using System.Data;
 using potion_brewery_management.Models;
 
-namespace potion_brewery_management.Forms {
+namespace potion_brewery_management {
     public partial class RecipeManagementForm : Form {
         private BreweryDbContext _context;
         private List<RecipeIngredient> _currentIngredients;
@@ -154,6 +154,10 @@ namespace potion_brewery_management.Forms {
             _currentIngredients.Clear();
             RefreshIngredientGrid();
             lstRecipes.ClearSelected();
+        }
+
+        private void RecipeManagementForm_Load(object sender, EventArgs e) {
+
         }
     }
 }
