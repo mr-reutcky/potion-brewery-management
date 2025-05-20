@@ -53,5 +53,5 @@ Make sure Entity Framework is configured and run migrations if you’re using Co
 Update-Database
 ```
 
-###Authors
+### Authors
 - Samuel Reutcky
