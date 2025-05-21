@@ -20,56 +20,60 @@
             // lblWelcome
             // 
             lblWelcome.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
-            lblWelcome.Location = new Point(30, 10);
+            lblWelcome.Location = new Point(126, 9);
             lblWelcome.Name = "lblWelcome";
-            lblWelcome.Size = new Size(550, 30);
+            lblWelcome.Size = new Size(550, 61);
             lblWelcome.TabIndex = 0;
             lblWelcome.Text = "Welcome to the Potion Brewery!";
             lblWelcome.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // btnRecipeManagement
             // 
-            btnRecipeManagement.Location = new Point(198, 130);
+            btnRecipeManagement.BackColor = Color.FromArgb(192, 192, 255);
+            btnRecipeManagement.Location = new Point(224, 195);
             btnRecipeManagement.Name = "btnRecipeManagement";
-            btnRecipeManagement.Size = new Size(217, 40);
+            btnRecipeManagement.Size = new Size(337, 84);
             btnRecipeManagement.TabIndex = 1;
             btnRecipeManagement.Text = "Recipe Management";
-            btnRecipeManagement.UseVisualStyleBackColor = true;
+            btnRecipeManagement.UseVisualStyleBackColor = false;
             btnRecipeManagement.Click += btnRecipeManagement_Click;
             // 
             // btnIngredientManagement
             // 
-            btnIngredientManagement.Location = new Point(198, 84);
+            btnIngredientManagement.BackColor = Color.FromArgb(192, 255, 192);
+            btnIngredientManagement.Location = new Point(224, 105);
             btnIngredientManagement.Name = "btnIngredientManagement";
-            btnIngredientManagement.Size = new Size(217, 40);
+            btnIngredientManagement.Size = new Size(337, 84);
             btnIngredientManagement.TabIndex = 2;
             btnIngredientManagement.Text = "Ingredient Management";
-            btnIngredientManagement.UseVisualStyleBackColor = true;
+            btnIngredientManagement.UseVisualStyleBackColor = false;
             btnIngredientManagement.Click += btnIngredientManagement_Click;
             // 
             // btnBrewPotion
             // 
-            btnBrewPotion.Location = new Point(198, 176);
+            btnBrewPotion.BackColor = Color.FromArgb(255, 192, 255);
+            btnBrewPotion.Location = new Point(224, 285);
             btnBrewPotion.Name = "btnBrewPotion";
-            btnBrewPotion.Size = new Size(217, 40);
+            btnBrewPotion.Size = new Size(337, 84);
             btnBrewPotion.TabIndex = 3;
             btnBrewPotion.Text = "Brew Potion";
-            btnBrewPotion.UseVisualStyleBackColor = true;
+            btnBrewPotion.UseVisualStyleBackColor = false;
             btnBrewPotion.Click += btnBrewPotion_Click;
             // 
             // btnReportsForm
             // 
-            btnReportsForm.Location = new Point(198, 222);
+            btnReportsForm.BackColor = Color.FromArgb(255, 224, 192);
+            btnReportsForm.Location = new Point(224, 375);
             btnReportsForm.Name = "btnReportsForm";
-            btnReportsForm.Size = new Size(217, 40);
+            btnReportsForm.Size = new Size(337, 84);
             btnReportsForm.TabIndex = 4;
             btnReportsForm.Text = "System Reports";
-            btnReportsForm.UseVisualStyleBackColor = true;
+            btnReportsForm.UseVisualStyleBackColor = false;
             btnReportsForm.Click += btnReportsForm_Click;
             // 
             // WelcomeForm
             // 
-            ClientSize = new Size(613, 319);
+            ClientSize = new Size(778, 504);
             Controls.Add(btnReportsForm);
             Controls.Add(btnBrewPotion);
             Controls.Add(btnIngredientManagement);

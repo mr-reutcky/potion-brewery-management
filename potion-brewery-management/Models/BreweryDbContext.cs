@@ -23,6 +23,6 @@ public class BreweryDbContext : DbContext {
     }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) {
-        optionsBuilder.UseSqlServer("Server=HOMEDESKTOP\\SQLEXPRESS;Database=PotionBreweryDB;Integrated Security=True;TrustServerCertificate=True");
+        optionsBuilder.UseSqlServer("Server=SAMUELS_LAPTOP\\SQLEXPRESS;Database=PotionBreweryDB;Integrated Security=True;TrustServerCertificate=True");
     }
 }

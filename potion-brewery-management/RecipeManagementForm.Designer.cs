@@ -140,13 +140,14 @@ namespace potion_brewery_management {
             // 
             // btnAddIngredient
             // 
-            btnAddIngredient.Location = new Point(260, 302);
+            btnAddIngredient.BackColor = Color.FromArgb(192, 255, 255);
+            btnAddIngredient.Location = new Point(260, 279);
             btnAddIngredient.Margin = new Padding(4, 5, 4, 5);
             btnAddIngredient.Name = "btnAddIngredient";
             btnAddIngredient.Size = new Size(107, 38);
             btnAddIngredient.TabIndex = 10;
             btnAddIngredient.Text = "ADD";
-            btnAddIngredient.UseVisualStyleBackColor = true;
+            btnAddIngredient.UseVisualStyleBackColor = false;
             // 
             // dgvIngredients
             // 
@@ -201,13 +202,14 @@ namespace potion_brewery_management {
             // 
             // btnDeleteRecipe
             // 
+            btnDeleteRecipe.BackColor = Color.FromArgb(255, 128, 128);
             btnDeleteRecipe.Location = new Point(23, 713);
             btnDeleteRecipe.Margin = new Padding(4, 5, 4, 5);
             btnDeleteRecipe.Name = "btnDeleteRecipe";
             btnDeleteRecipe.Size = new Size(107, 38);
             btnDeleteRecipe.TabIndex = 16;
             btnDeleteRecipe.Text = "DELETE";
-            btnDeleteRecipe.UseVisualStyleBackColor = true;
+            btnDeleteRecipe.UseVisualStyleBackColor = false;
             // 
             // btnClearForm
             // 

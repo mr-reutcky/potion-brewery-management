@@ -2,7 +2,7 @@ using potion_brewery_management.Models;
 
 namespace potion_brewery_management {
     public partial class IngredientManagementForm : Form {
-        private BreweryDbContext _context;  
+        private BreweryDbContext _context;
 
         public IngredientManagementForm() {
             InitializeComponent();
@@ -101,6 +101,17 @@ namespace potion_brewery_management {
 
         private void label3_Click(object sender, EventArgs e) {
 
+        }
+
+        private void btnClearForm_Click(object sender, EventArgs e) {
+            txtName.Text = "";
+            numQuantity.Value = 0;
+            numMinStock.Value = 0;
+            dgvIngredients.ClearSelection();
+            dgvIngredients.DataSource = null;
+            dgvIngredients.DataSource = _context.Ingredients.ToList();
+            dgvIngredients.Refresh();
+            dgvIngredients.Update();
         }
     }
 }

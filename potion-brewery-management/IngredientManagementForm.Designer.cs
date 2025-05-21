@@ -37,6 +37,7 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
+            btnClearForm = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvIngredients).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numQuantity).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numMinStock).BeginInit();
@@ -78,33 +79,36 @@
             // 
             // btnAdd
             // 
+            btnAdd.BackColor = Color.FromArgb(192, 255, 192);
             btnAdd.Location = new Point(17, 232);
             btnAdd.Margin = new Padding(4, 5, 4, 5);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(107, 38);
             btnAdd.TabIndex = 4;
             btnAdd.Text = "ADD";
-            btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.UseVisualStyleBackColor = false;
             // 
             // btnUpdate
             // 
+            btnUpdate.BackColor = Color.FromArgb(192, 192, 255);
             btnUpdate.Location = new Point(133, 232);
             btnUpdate.Margin = new Padding(4, 5, 4, 5);
             btnUpdate.Name = "btnUpdate";
             btnUpdate.Size = new Size(107, 38);
             btnUpdate.TabIndex = 5;
             btnUpdate.Text = "UPDATE";
-            btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.UseVisualStyleBackColor = false;
             // 
             // btnDelete
             // 
+            btnDelete.BackColor = Color.FromArgb(255, 128, 128);
             btnDelete.Location = new Point(249, 232);
             btnDelete.Margin = new Padding(4, 5, 4, 5);
             btnDelete.Name = "btnDelete";
             btnDelete.Size = new Size(107, 38);
             btnDelete.TabIndex = 6;
             btnDelete.Text = "DELETE";
-            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.UseVisualStyleBackColor = false;
             // 
             // label1
             // 
@@ -137,11 +141,23 @@
             label3.Text = "Minimum Stock";
             label3.Click += label3_Click;
             // 
+            // btnClearForm
+            // 
+            btnClearForm.BackColor = Color.FromArgb(255, 192, 192);
+            btnClearForm.Location = new Point(17, 278);
+            btnClearForm.Name = "btnClearForm";
+            btnClearForm.Size = new Size(337, 36);
+            btnClearForm.TabIndex = 10;
+            btnClearForm.Text = "CLEAR FORM";
+            btnClearForm.UseVisualStyleBackColor = false;
+            btnClearForm.Click += btnClearForm_Click;
+            // 
             // IngredientManagementForm
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1723, 353);
+            Controls.Add(btnClearForm);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -174,5 +190,6 @@
         private Label label1;
         private Label label2;
         private Label label3;
+        private Button btnClearForm;
     }
 }
