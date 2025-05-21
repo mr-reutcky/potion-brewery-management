@@ -14,6 +14,7 @@
             btnRecipeManagement = new Button();
             btnIngredientManagement = new Button();
             btnBrewPotion = new Button();
+            btnReportsForm = new Button();
             SuspendLayout();
             // 
             // lblWelcome
@@ -56,9 +57,20 @@
             btnBrewPotion.UseVisualStyleBackColor = true;
             btnBrewPotion.Click += btnBrewPotion_Click;
             // 
+            // btnReportsForm
+            // 
+            btnReportsForm.Location = new Point(198, 222);
+            btnReportsForm.Name = "btnReportsForm";
+            btnReportsForm.Size = new Size(217, 40);
+            btnReportsForm.TabIndex = 4;
+            btnReportsForm.Text = "System Reports";
+            btnReportsForm.UseVisualStyleBackColor = true;
+            btnReportsForm.Click += btnReportsForm_Click;
+            // 
             // WelcomeForm
             // 
-            ClientSize = new Size(613, 250);
+            ClientSize = new Size(613, 319);
+            Controls.Add(btnReportsForm);
             Controls.Add(btnBrewPotion);
             Controls.Add(btnIngredientManagement);
             Controls.Add(btnRecipeManagement);
@@ -72,5 +84,6 @@
         private System.Windows.Forms.Button btnRecipeManagement;
         private System.Windows.Forms.Button btnIngredientManagement;
         private System.Windows.Forms.Button btnBrewPotion;
+        private Button btnReportsForm;
     }
 }

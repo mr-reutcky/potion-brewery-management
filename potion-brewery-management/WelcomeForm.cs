@@ -21,5 +21,10 @@ namespace potion_brewery_management {
             BrewPotionForm brewForm = new BrewPotionForm();
             brewForm.ShowDialog();
         }
+
+        private void btnReportsForm_Click(object sender, EventArgs e) {
+            ReportsForm reportsForm = new ReportsForm();
+            reportsForm.ShowDialog();
+        }
     }
 }
